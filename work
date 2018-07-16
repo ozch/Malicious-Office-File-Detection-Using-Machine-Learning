@@ -1,0 +1,3 @@
+get file type has ole and macro by olevba.py | supports all file types
+use oleobj to extract ole objects
+get meta deta using oledump.py -m filename
